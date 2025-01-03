@@ -20,7 +20,7 @@ Relevante projekter frembringer fx referencearkitekturer eller andre elementer t
 
 I udgangspunktet er analyseprojekter ikke omfattet af reviews, men der kan stadig være forhold, der er relevante i forhold til arkitektoniske betragtninger, og hvor rådgivning fra sekretariatet for initiativ 8.1 vil være formålstjenesteligt.
 
-Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et arkitekturreview, kan sekretariatet for initiativ 8.1 kontaktes.
+Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et arkitekturreview, kan sekretariatet kontaktes.
 
 ### Tre trin for arkitekturreviews
 
