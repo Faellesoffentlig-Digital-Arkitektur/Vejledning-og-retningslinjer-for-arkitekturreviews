@@ -18,7 +18,7 @@ Projekter, der er en del af initiativer i digitaliseringsstrategien med et væse
 
 Relevante projekter frembringer fx referencearkitekturer eller andre elementer til den fællesoffentlige rammearkitektur, men det kan også være løsningsprojekter, der har til formål at udvikle og implementere en konkret løsning eller komponent - uanset om den skal bringes til anvendelse i et konkret domæne eller som en del af den fællesoffentlige infrastruktur.
 
-I udgangspunktet er analyseprojekter ikke omfattet af reviews, men der kan stadig være forhold, der er relevante i forhold til arkitektoniske betragtninger, og hvor rådgivning fra sekretariatet for initiativ 8.1 vil være formålstjenesteligt.
+I udgangspunktet er analyseprojekter ikke omfattet af reviews, men der kan stadig være forhold, der er relevante i forhold til arkitektoniske betragtninger, og hvor rådgivning fra sekretariatet for initiativ 27 vil være formålstjenesteligt.
 
 Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et arkitekturreview, kan sekretariatet for UAS kontaktes.
 
