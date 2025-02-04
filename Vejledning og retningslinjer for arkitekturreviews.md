@@ -6,6 +6,10 @@
 
 Regeringen, kommunerne og regionerne har med den fællesoffentlige digitaliseringsstrategi for 2016-2020 sat sig ambitiøse mål for den videre digitalisering af den danske offentlige sektor. En helt central udfordring er at bruge digitaliseringen til at skabe stærkere sammenhæng i den offentlige sektors service. Borgerne og virksomhederne skal opleve, at behandling og service på tværs af flere myndigheder hænger bedre sammen. De samme data skal ikke indsamles flere gange, da dette koster penge og giver alle mere bøvl. Myndighederne skal kunne trække på hinandens viden og kunne samarbejde til gavn for borgere og virksomheder. Den fællesoffentlige digitale arkitektur skal understøtte den offentlige sektor i rejsen mod dette mål.
 
+
+
+### Udvalget for Arkitektur og Standarder
+
 For at realisere den fælles arkitektur er Udvalget for Arkitektur og Standarder (UAS) nedsat i regi af de fællesoffentlige digitaliseringsstrategier. Udvalget har ansvaret for prioritering, udvikling, vedligehold og anvendelse af den fælles arkitektur, standarder og infrastruktur. Udvalget skal, med reference til porteføljestyregruppen for den fællesoffentlige digitaliseringsstrategi, sikre tværgående koordinering, og at initiativerne både anvender og bidrager til den fælles arkitektur – til gavn for både projektet selv og hinanden.
 
 For initiativer med et væsentligt indhold af data og arkitektur udføres arkitekturreviews, der vurderer, i hvilket omfang den fælles arkitektur anvendes, herunder om der sikres digital sammenhæng på tværs. Resultatet af et arkitekturreview skal forelægges Udvalg for arkitektur og standarder (UAS).
