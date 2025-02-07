@@ -6,8 +6,6 @@
 
 Regeringen, kommunerne og regionerne har med den fællesoffentlige digitaliseringsstrategi for 2016-2020 sat sig ambitiøse mål for den videre digitalisering af den danske offentlige sektor. En helt central udfordring er at bruge digitaliseringen til at skabe stærkere sammenhæng i den offentlige sektors service. Borgerne og virksomhederne skal opleve, at behandling og service på tværs af flere myndigheder hænger bedre sammen. De samme data skal ikke indsamles flere gange, da dette koster penge og giver alle mere bøvl. Myndighederne skal kunne trække på hinandens viden og kunne samarbejde til gavn for borgere og virksomheder. Den fællesoffentlige digitale arkitektur skal understøtte den offentlige sektor i rejsen mod dette mål.
 
-
-
 ### Udvalget for Arkitektur og Standarder
 
 For at realisere den fælles arkitektur er Udvalget for Arkitektur og Standarder (UAS) nedsat i regi af de fællesoffentlige digitaliseringsstrategier. Udvalget har ansvaret for prioritering, udvikling, vedligehold og anvendelse af den fælles arkitektur, standarder og infrastruktur. Udvalget skal, med reference til porteføljestyregruppen for den fællesoffentlige digitaliseringsstrategi, sikre tværgående koordinering, og at initiativerne både anvender og bidrager til den fælles arkitektur – til gavn for både projektet selv og hinanden.
@@ -40,15 +38,15 @@ Modellen for arkitektur-reviews består af tre hovedprocesser:
 
 Figur 1: Illustration af de tre trin for arkitekturreviews
 
-Et review ikke er en engangs-handling: Der udføres i udgangspunktet to reviews for alle relevante projekter, der ser på de udfordringer, projektet har på det givne tidspunkt. Denne strategi bygger på ønsket om, at gøre reviewet så konkret og værdiskabende som muligt for projektet på det pågældende tidspunkt.
+Der kan udføres op til to reviews for alle relevante projekter. Hvert review ser på de udfordringer, projektet har på det givne tidspunkt. Denne strategi bygger på ønsket om, at gøre reviewet så konkret og værdiskabende som muligt for projektet på det pågældende tidspunkt.
 
 ### Hvilke typer af arkitekturreviews gennemføres?
 
-Der udføres fire forskellige typer af reviews: Review af scope, arkitekturdesign og - komponent reviews, model-reviews og referencearkitektur-reviews. Nogle typer af reviews kan udføres flere gange i løbet af et projekts levetid, fx modelreviews og komponent-reviews, mens fx scope review kun udføres en gang - typisk ved projektliggørelse.
+Der udføres fire forskellige typer af reviews: Review af scope, arkitekturdesign- og  komponentreview, modelreview og review af referencearkitektur. Reviews kan udføres flere gange i løbet af et projekts levetid, fx modelreview og komponentreview, mens fx scope review kun udføres en gang - typisk ved projektliggørelse.
 
 #### Review af scope
 
-Et review af det arkitektoniske scope udføres tidligt i et projektforløb - enten lige før eller lige efter en projektliggørelse. Formålet er at se på det overordnede scope for projektet ud fra et sammenhængs- og arkitekturperspektiv, herunder om de indledende arkitekturmæssige overvejelser omfatter det relevante og nødvendige ift. at sikre, at projektet bidrager ind i en sammenhængende digital offentlig sektor. Fokus for dette tidlige arkitekturreview er sammenhængen til den fællesoffentlige rammearkitektur samt anvendelse og udformning af elementer i rammearkitekturen. Et scope review udføres typisk kun en gang pr. projekt på baggrund af tegninger af fx målbilledet for projektet.
+Et review af det arkitektoniske scope udføres tidligt i et projektforløb - enten lige før eller lige efter en projektliggørelse. Formålet er at se på det overordnede scope for projektet ud fra et sammenhængs- og arkitekturperspektiv, herunder om de indledende arkitekturmæssige overvejelser omfatter det relevante og nødvendige ift. at sikre, at projektet bidrager ind i en sammenhængende digital offentlig sektor. Fokus for dette tidlige arkitekturreview er sammenhængen til den fællesoffentlige rammearkitektur samt anvendelse og udformning af elementer i rammearkitekturen.
 
 #### Arkitekturdesign og -komponent reviews
 
