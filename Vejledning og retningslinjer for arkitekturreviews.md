@@ -90,9 +90,9 @@ Figur 3: Illustration af de forskellige nedslagspunkter i forhold til den fælle
 
 Arkitekturreviewet skal være værdiskabende ift. det projekt, der reviewes og ikke være et forsinkende element. Et review gennemføres derfor på 10 arbejdsdage regnet fra det tidspunkt, hvor det pågældende projekt indsender materiale til brug for reviewet frem til, at projektet modtager et udkast til review-rapport fra sekretariatet for initiativ 8.1 til behandling i egne fora.
 
-Der opstilles informationskrav til det materiale, der skal indsendes til reviewet for at sikre en fyldestgørende behandling. For de fleste typer reviews vil dette basere sig på den fællesoffentlige dokumentationsramme, men der kan være behov for yderligere informationer i forbindelse med gennemførelsen. Dokumentationsgrundlaget for det enkelte review fastlægges i en dialog mellem sekretariatet for initiativ 8.1 og projektet forud for reviewet.
+Der opstilles informationskrav til det materiale, der skal indsendes til reviewet for at sikre en fyldestgørende behandling. For de fleste typer reviews vil dette basere sig på den fællesoffentlige dokumentationsramme, men der kan være behov for yderligere informationer i forbindelse med gennemførelsen. Dokumentationsgrundlaget for det enkelte review fastlægges i en dialog mellem sekretariatet for initiativ 27 og projektet forud for reviewet.
 
-Til hvert review nedsættes et reviewboard, der har fire pladser - en plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR mens de to sidste pladser kan anvendes af staten. Reviewet udmøntes i en review-rapport, der fremsendes til projektet efter reviewboardets godkendelse.
+Til hvert review nedsættes et reviewboard, der har fire pladser - en plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR mens de to sidste pladser kan anvendes af staten.Til modelreview har boardet dog kun 2 pladser, og ingen af disse er reserveret bestemte parter. Reviewet udmøntes i en review-rapport, der fremsendes til projektet efter reviewboardets godkendelse.
 
 #### Arkitekturreview på 10 dage
 
@@ -110,9 +110,9 @@ På baggrund af bemærkninger og workshop udarbejder sekretariatet en reviewrapp
 
 #### Modelreviews
 
-Processen for enkeltstående begrebs- og modelreviews er skriftlig baseret. Reviewboardets roller er kvalitetssikring af review-rapporten, der er en validering af, om den pågældende begrebs- eller datamodel er i overensstemmelse med de fællesoffentlige modelregler. Rapporten udarbejdes af sekretariatet for initiativ 8.1.
+Processen for begrebs- og modelreviews er skriftlig baseret. Reviewboardets rolle er kvalitetssikring af review-rapporten, der er en validering af, om fx den pågældende begrebs- eller datamodel er i overensstemmelse med de fællesoffentlige modelregler. Rapporten udarbejdes af sekretariatet for initiativ 27.
 
-For modelreviews modtages materialet også på dag et, og i løbet af de næste fire dage udarbejder sekretariatet for initiativ 8.1 en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet. Indgår validering af begrebs- eller datamodel i et arkitekturdesign eller –komponent review behandles sekretariatets validering med reviewboardet på workshopdagen.
+For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder sekretariatet for initiativ 8.1 en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet. Indgår validering af begrebs- eller datamodel i et arkitekturdesign eller –komponent review behandles sekretariatets validering med reviewboardet på workshopdagen.
 
 ![Figur 5.jpg](C:\Users\B339605\Documents\GitHub\Vejledning-og-retningslinjer-for-arkitekturreviews\assets\Figur%205.jpg)
 
