@@ -34,7 +34,7 @@ Modellen for arkitektur-reviews består af tre hovedprocesser:
 
 3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde en handlingsplan før sagen behandles hos styregruppen for data og arkitektur.
 
-![Figur 1.jpg](assets/Figur1.svg)
+![Figur 1](assets/Figur1.svg)
 
 Figur 1: Illustration af de tre trin for arkitekturreviews
 
@@ -72,7 +72,7 @@ Referencearkitekturer optages efter færdiggørelse i den fællesoffentlige ramm
 
 Nedenstående er de fire typer reviews og deres karakteristika opsummeret.
 
-![Figur 2.jpg](C:\Users\B339605\Documents\GitHub\Vejledning-og-retningslinjer-for-arkitekturreviews\assets\Figur%202.jpg)
+![Figur 2](assets/Figur2.svg)
 
 Figur 2: Illustration af de fire typer reviews og deres karakteristika opsummeret.
 
@@ -82,7 +82,7 @@ Arkitekturreviews udføres når det er relevant gennem projektets livscyklus. Et
 
 For projekter, der udvikles efter agile metoder gælder ligeledes, at der skal udføres et arkitekturreview af scopet for det samlede projekt, når projektet projektliggøres. Derefter tilrettelægges reviews ud fra udviklingsplan af features. De forskellige nedslagspunkter i forhold til den fællesstatslige it-projekt model er illustreret nedenfor. Nedslagspunkterne varierer i forhold til den anvendte projektmodel herunder, om det er et agilt eller vandfaldsbaseret projektforløb.
 
-![Figur 3.jpg](C:\Users\B339605\Documents\GitHub\Vejledning-og-retningslinjer-for-arkitekturreviews\assets\Figur%203.jpg)
+![Figur 3](assets/Figur3.svg)
 
 Figur 3: Illustration af de forskellige nedslagspunkter i forhold til den fællesstatslige it-projekt model.
 
@@ -98,7 +98,7 @@ Til hvert review nedsættes et reviewboard, der har fire pladser - en plads er r
 
 Selve reviewprocessen omfatter 10 dage, fra det tidspunkt hvor projektet indsender materialet til projektet modtager en review-rapport.
 
-![Figur 4.jpg](C:\Users\B339605\Documents\GitHub\Vejledning-og-retningslinjer-for-arkitekturreviews\assets\Figur%204.jpg)
+![Figur 4](assets/Figur4.svg)
 
 Figur 4: Illustration af arkitekturreview på 10 dage.
 
@@ -114,7 +114,7 @@ Processen for begrebs- og modelreviews er skriftlig baseret. Reviewboardets roll
 
 For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder sekretariatet for initiativ 8.1 en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet. Indgår validering af begrebs- eller datamodel i et arkitekturdesign eller –komponent review behandles sekretariatets validering med reviewboardet på workshopdagen.
 
-![Figur 5.jpg](C:\Users\B339605\Documents\GitHub\Vejledning-og-retningslinjer-for-arkitekturreviews\assets\Figur%205.jpg)
+![Figur 5](assets/Figur5.svg)
 
 Figur 5: Illustration af modelreview på 10 dage.
 
@@ -140,7 +140,7 @@ Sekretariatet for initiativ 8.1 foretager en opfølgning på alle handlingsplane
 
 Det publiceres hvilke arkitekturreviews, der er gennemført i regi af digitaliseringsstrategien mhp. at fremme videndeling og overblik over fællesoffentlige løsninger og komponenter. Efter aftale med projektet kan også publiceres selve reviewrapporten og den fremsendte arkitektur-dokumentation.
 
-![Figur 6.jpg](C:\Users\B339605\Documents\GitHub\Vejledning-og-retningslinjer-for-arkitekturreviews\assets\Figur%206.jpg)
+![Figur 6](assets/Figur6.svg)
 
 Figur 6: Illustration af efterbehandling af reviews.
 
