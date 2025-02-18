@@ -34,7 +34,7 @@ Modellen for arkitektur-reviews består af tre hovedprocesser:
 
 3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde en handlingsplan før sagen behandles hos styregruppen for data og arkitektur.
 
-![Figur 1.jpg](assets/Figur 1.svg)
+![Figur 1.jpg](assets/Figur1.svg)
 
 Figur 1: Illustration af de tre trin for arkitekturreviews
 
