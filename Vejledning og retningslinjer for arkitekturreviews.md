@@ -122,21 +122,21 @@ Figur 5: Illustration af modelreview på 10 dage.
 
 Reviewpanelet er centralt i udførelse af arkitekturreviews, både som aktive bidragsydere samt i rolle som kvalitetssikring af det udførte arbejde. Hertil er deltagelse i panelet også en god mulighed for kompetenceløft gennem drøftelse og sparring med andre projekter og kollegaer.
 
-Reviewpanelet består af senior-arkitekter og datamodellører, som er indmeldt af de deltagende parter i digitaliseringsstrategien. For at given review udpeges reviewboardet af koordinationsgruppen for initiativ 8.1. Hvert reviewboard har fire pladser: En plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR og de sidste to pladser optages af staten. Ønsker en sektor ikke at udnytte deres plads(er), gennemføres reviewet med de øvrige deltagere i reviewboardet.
+Reviewpanelet består af senior-arkitekter og datamodellører, som er indmeldt af de deltagende parter i digitaliseringsstrategien. For at given review udpeges reviewboardet af sekretariatet for initiativ 27. Hvert reviewboard har fire pladser: En plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR og de sidste to pladser optages af staten. Ønsker en sektor ikke at udnytte deres plads(er), gennemføres reviewet med de øvrige deltagere i reviewboardet.
 
 Reviewboardet er ansvarlige for at indstille til styregruppen for data og arkitektur, om det pågældende projekt er i overensstemmelse med den fællesoffentlige digitale arkitektur. Indstillingen er en del af review-rapporten.
 
 Man kan ikke deltage i et reviewboard for et arkitekturreview, der udføres på et projekt, der ejes af den organisation, som man selv er ansat i. Organisationen repræsenteres derimod ved projektleder og en arkitekt for det pågældende projekt.
 
-Ønsker man som arkitekt eller modellør i en myndighed at deltage i reviewpanelet, kan man enten kontakte sin lokale koordinator eller sekretariatet for initiativ 8.1 for en dialog om mulighederne.
+Ønsker man som arkitekt eller modellør i en myndighed at deltage i reviewpanelet, kan man enten kontakte sin lokale koordinator eller sekretariatet for initiativ 27  for en dialog om mulighederne.
 
 ### Efterbehandling af reviews
 
 Review-rapporten for alle typer reviews fremsendes til det pågældende projekt til behandling i projektets egne fora, følgende den tidsplan, der er fastlagt på forhånd for det konkrete review. I udgangspunktet har et projekt 2-4 uger til efterbehandling og udarbejdelse af handlingsplan ift. afgivne anbefalinger i review-rapporten.
 
-Når projektet har færdigbehandlet review-rapporten fremsendes projektets handlingsplan til sekretariatet for initiativ 8.1. Der foretages opfølgning herpå efter 6 måneder. Review-rapporten forelægges styregruppen for data og arkitektur. Godkendes review-rapporten ikke i styregruppen for data og arkitektur, eskaleres sagen til porteføljestyregruppen for digitaliseringsstrategien.
+Når projektet har færdigbehandlet review-rapporten fremsendes projektets handlingsplan til sekretariatet for initiativ 27. Der foretages opfølgning herpå efter 6 måneder. Review-rapporten forelægges UAS. Godkendes review-rapporten ikke i UAS, kan sagen eskaleres til partsforum.
 
-Sekretariatet for initiativ 8.1 foretager en opfølgning på alle handlingsplaner seks måneder efter behandlingen i styregruppen for data og arkitektur. Resultatet heraf forelægges styregruppen.
+Sekretariatet for initiativ 27 foretager en opfølgning på alle handlingsplaner seks måneder efter behandlingen på et møde i UAS. Resultatet heraf forelægges styregruppen.
 
 Det publiceres hvilke arkitekturreviews, der er gennemført i regi af digitaliseringsstrategien mhp. at fremme videndeling og overblik over fællesoffentlige løsninger og komponenter. Efter aftale med projektet kan også publiceres selve reviewrapporten og den fremsendte arkitektur-dokumentation.
 
