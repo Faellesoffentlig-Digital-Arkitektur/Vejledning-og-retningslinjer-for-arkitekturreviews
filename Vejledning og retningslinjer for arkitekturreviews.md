@@ -22,7 +22,7 @@ Relevante projekter frembringer fx referencearkitekturer eller andre elementer t
 
 I udgangspunktet er analyseprojekter ikke omfattet af reviews, men der kan stadig være forhold, der er relevante i forhold til arkitektoniske betragtninger, og hvor rådgivning fra sekretariatet for initiativ 27 vil være formålstjenesteligt.
 
-Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et arkitekturreview, kan sekretariatet for UAS kontaktes.
+Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et arkitekturreview, kan sekretariatet for initiativ 27 kontaktes.
 
 ### Tre trin for arkitekturreviews
 
@@ -32,7 +32,7 @@ Modellen for arkitektur-reviews består af tre hovedprocesser:
 
 2\. En reviewproces, der gennemføres på 10 dage.
 
-3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde    en handlingsplan.
+3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde en handlingsplan.
 
 ![Figur 1](assets/Figur1.svg)
 
