@@ -32,7 +32,7 @@ Modellen for arkitektur-reviews består af tre hovedprocesser:
 
 2\. En reviewproces, der gennemføres på 10 dage.
 
-3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde en handlingsplan.
+3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde    en handlingsplan.
 
 ![Figur 1](assets/Figur1.svg)
 
