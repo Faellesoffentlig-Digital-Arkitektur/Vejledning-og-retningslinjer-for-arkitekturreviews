@@ -28,11 +28,11 @@ Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et 
 
 Modellen for arkitektur-reviews består af tre hovedprocesser:
 
-1\. Et indledende rådgivningsarbejde, hvorunder rammerne for arkitekturreview(s) fastlægges i dialog mellem sekretariatet for initiativ 8.1 og det pågældende projekt.
+1\. En indledende rådgivende dialog mellem sekretariatet for initiativ 27 og det pågældende projekt 
 
 2\. En reviewproces, der gennemføres på 10 dage.
 
-3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde en handlingsplan før sagen behandles hos styregruppen for data og arkitektur.
+3\. En efterfølgende behandling af reviewet, hvor projektet har mulighed for at kommentere review-rapporten i egne fora og udarbejde en handlingsplan.
 
 ![Figur 1](assets/Figur1.svg)
 
