@@ -112,17 +112,17 @@ På baggrund af bemærkninger og workshop udarbejder sekretariatet en reviewrapp
 
 Processen for begrebs- og modelreviews er skriftlig baseret. Reviewboardets rolle er kvalitetssikring af review-rapporten, der er en validering af, om fx den pågældende begrebs- eller datamodel er i overensstemmelse med de fællesoffentlige modelregler. Rapporten udarbejdes af modelsekretariatet.
 
-For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder modelsekretariatet en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet. Indgår validering af begrebs- eller datamodel i et arkitekturdesign eller –komponent review, behandles sekretariatets validering med reviewboardet på workshopdagen.
+For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder modelsekretariatet en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet.
 
 ![Figur 5](assets/Figur5.svg)
 
 Figur 5: Illustration af modelreview på 10 dage.
 
-#### Review-panel og reviewboard
+#### Reviewboard
 
-Reviewpanelet er centralt i udførelse af arkitekturreviews, både som aktive bidragsydere samt i rolle som kvalitetssikring af det udførte arbejde. Hertil er deltagelse i panelet også en god mulighed for kompetenceløft gennem drøftelse og sparring med andre projekter og kollegaer.
+Reviewboardet er centralt i udførelse af arkitekturreviews, både som aktive bidragsydere samt i rolle som kvalitetssikring af det udførte arbejde. Hertil er deltagelse også en god mulighed for kompetenceløft gennem drøftelse og sparring med andre projekter og kollegaer.
 
-Reviewpanelet består af senior-arkitekter og datamodellører, som er indmeldt af de deltagende parter i digitaliseringsstrategien. For at given review udpeges reviewboardet af sekretariatet for initiativ 27. Hvert reviewboard har fire pladser: En plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR og de sidste to pladser optages af staten. Ønsker en sektor ikke at udnytte deres plads(er), gennemføres reviewet med de øvrige deltagere i reviewboardet.
+Reviewboardet består af it-arkitekter og datamodellører, som er indmeldt af de deltagende parter i digitaliseringsstrategien. For at given review udpeges reviewboardet af sekretariatet for initiativ 27. Hvert reviewboard har fire pladser: En plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR og de sidste to pladser optages af staten. Ønsker en sektor ikke at udnytte deres plads(er), gennemføres reviewet med de øvrige deltagere i reviewboardet.
 
 Reviewboardet er ansvarlige for at indstille til styregruppen for data og arkitektur, om det pågældende projekt er i overensstemmelse med den fællesoffentlige digitale arkitektur. Indstillingen er en del af review-rapporten.
 
