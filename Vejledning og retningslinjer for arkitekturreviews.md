@@ -12,7 +12,7 @@ For at realisere den fælles arkitektur er Udvalget for Arkitektur og Standarder
 
 For initiativer med et væsentligt indhold af data og arkitektur udføres arkitekturreviews, der vurderer, i hvilket omfang den fælles arkitektur anvendes, herunder om der sikres digital sammenhæng på tværs. Resultatet af et arkitekturreview skal forelægges Udvalg for arkitektur og standarder (UAS).
 
-Denne vejledning har til formål at beskrive retningslinjer for arkitekturreviews i regi af den tidligere digitaliseringsstrategi, herunder kriterier for projekter, der skal gennemgå review, review-proces samt procedurer i forbindelse hermed.
+Denne vejledning har til formål at beskrive retningslinjer for arkitekturreviews i regi af den fællesoffentlige digitaliseringsstrategi, herunder kriterier for projekter, der skal gennemgå review, review-proces samt procedurer i forbindelse hermed.
 
 ### Hvilke projekter skal have foretaget arkitekturreviews?
 
