@@ -42,7 +42,7 @@ Der kan udføres op til to reviews for alle relevante projekter. Hvert review se
 
 ### Hvilke typer af arkitekturreviews gennemføres?
 
-Der udføres fire forskellige typer af reviews: Review af scope, arkitekturdesign- og  komponentreview, modelreview og review af referencearkitektur. Reviews kan udføres flere gange i løbet af et projekts levetid, fx modelreview og komponentreview, mens fx scope review kun udføres en gang - typisk ved projektliggørelse.
+Der udføres fire forskellige typer af reviews: Review af scope, arkitekturdesign- og  komponentreview, modelreview og review af referencearkitektur. Reviews kan udføres flere gange i løbet af et projekts levetid, fx arkitekturreview, mens fx scope review kun udføres en gang - typisk ved projektliggørelse. Et modelreview udføres kun én gang.
 
 #### Review af scope
 
