@@ -110,9 +110,9 @@ På baggrund af bemærkninger og workshop udarbejder sekretariatet en reviewrapp
 
 #### Modelreviews
 
-Processen for begrebs- og modelreviews er skriftlig baseret. Reviewboardets rolle er kvalitetssikring af review-rapporten, der er en validering af, om fx den pågældende begrebs- eller datamodel er i overensstemmelse med de fællesoffentlige modelregler. Rapporten udarbejdes af sekretariatet for initiativ 27.
+Processen for begrebs- og modelreviews er skriftlig baseret. Reviewboardets rolle er kvalitetssikring af review-rapporten, der er en validering af, om fx den pågældende begrebs- eller datamodel er i overensstemmelse med de fællesoffentlige modelregler. Rapporten udarbejdes af modelsekretariatet.
 
-For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder sekretariatet for initiativ 8.1 en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet. Indgår validering af begrebs- eller datamodel i et arkitekturdesign eller –komponent review behandles sekretariatets validering med reviewboardet på workshopdagen.
+For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder modelsekretariatet en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet. Indgår validering af begrebs- eller datamodel i et arkitekturdesign eller –komponent review, behandles sekretariatets validering med reviewboardet på workshopdagen.
 
 ![Figur 5](assets/Figur5.svg)
 
