@@ -124,7 +124,7 @@ Reviewboardet er centralt i udførelse af arkitekturreviews, både som aktive bi
 
 Reviewboardet består af it-arkitekter og lign., som er indmeldt af de deltagende parter i digitaliseringsstrategien. For at given review inviteres og udpeges reviewboardet af sekretariatet for initiativ 27. Hvert reviewboard har fire pladser: En plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR og de sidste to pladser optages af staten. Ønsker en sektor ikke at udnytte deres plads(er), gennemføres reviewet med de øvrige deltagere i reviewboardet.
 
-Reviewboardet er ansvarlige for at indstille til UAS, om det pågældende projekt er i overensstemmelse med den fællesoffentlige digitale arkitektur. Indstillingen er en del af review-rapporten. For modelreviews består reviewboardet af to repræsentanter fra UAS' medlememer.
+Reviewboardet er ansvarlige for at indstille til UAS, om det pågældende projekt er i overensstemmelse med den fællesoffentlige digitale arkitektur. Indstillingen er en del af review-rapporten. For modelreviews består reviewboardet af to repræsentanter fra UAS' medlemmer.
 
 Man kan ikke deltage i et reviewboard for et arkitekturreview, der udføres på et projekt, der ejes af den organisation, som man selv er ansat i. Organisationen repræsenteres derimod ved projektleder og en arkitekt for det pågældende projekt.
 
