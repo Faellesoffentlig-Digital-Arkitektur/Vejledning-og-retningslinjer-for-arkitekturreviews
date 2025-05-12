@@ -82,7 +82,7 @@ Arkitekturreviews udføres når det er relevant gennem projektets livscyklus. Et
 
 For projekter, der udvikles efter agile metoder gælder ligeledes, at der skal udføres et arkitekturreview af scopet for det samlede projekt, når projektet projektliggøres. Derefter tilrettelægges reviews ud fra udviklingsplan af features. De forskellige nedslagspunkter i forhold til den fællesstatslige it-projekt model er illustreret nedenfor. Nedslagspunkterne varierer i forhold til den anvendte projektmodel herunder, om det er et agilt eller vandfaldsbaseret projektforløb.
 
-![Figur 3](assets/Fig ur3.svg)
+![Figur 3](assets/Figur3.svg)
 
 Figur 3: Illustration af de forskellige nedslagspunkter i forhold til den fællesstatslige it-projekt model.
 
