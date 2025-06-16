@@ -136,8 +136,6 @@ Review-rapporten for alle typer reviews fremsendes til det pågældende projekt 
 
 Når projektet har færdigbehandlet review-rapporten fremsendes projektets handlingsplan til sekretariatet for initiativ 27. Afhængig af anbefalingerne foretages opfølgning herpå efter 6 måneder. Review-rapporten og handlingsplan forelægges UAS. Godkendes review-rapporten ikke i UAS, kan sagen eskaleres til partsforum.
 
-
-
 ![Figur 6](assets/Figur6.svg)
 
 Figur 6: Illustration af efterbehandling af reviews.
