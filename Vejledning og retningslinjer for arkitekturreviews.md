@@ -14,7 +14,7 @@ For initiativer med et væsentligt indhold af data og arkitektur skal udføres a
 
 Denne vejledning har til formål at beskrive retningslinjer for arkitekturreviews i regi af den fællesoffentlige digitaliseringsstrategi, herunder kriterier for projekter, der skal gennemgå review, reviewproces samt procedurer i forbindelse hermed.
 
-### Hvilke projekter skal have foretaget arkitekturreviews?
+### Hvilke projekter skal have foretaget arkitekturreview?
 
 Projekter, der er en del af initiativer i den fællesoffentlige digitaliseringsstrategi, med et væsentligt indhold af data og arkitektur, skal have foretaget et arkitekturreview.
 
@@ -38,11 +38,11 @@ Modellen for arkitekturreviews består af tre hovedprocesser:
 
 Figur 1: Illustration af de tre trin for arkitekturreviews
 
-Der kan udføres op til to reviews for alle relevante projekter. Hvert review ser på de udfordringer, projektet har på det givne tidspunkt. Denne strategi bygger på ønsket om, at gøre reviewet så konkret og værdiskabende som muligt for projektet på det pågældende tidspunkt.
+Der kan udføres op til to review for alle relevante projekter. Hvert review ser på de udfordringer, projektet har på det givne tidspunkt. Denne strategi bygger på ønsket om, at gøre reviewet så konkret og værdiskabende som muligt for projektet på det pågældende tidspunkt.
 
 ### Hvilke typer af arkitekturreviews gennemføres?
 
-Der udføres fire forskellige typer af reviews: Review af scope, arkitekturdesign- og  komponentreview, modelreview og review af referencearkitektur. Reviews kan udføres flere gange i løbet af et projekts levetid, fx arkitekturreview, mens fx scope review kun udføres en gang - typisk ved projektliggørelse. Et modelreview udføres kun én gang.
+Der udføres fire forskellige typer af reviews: Review af scope, arkitekturdesign- og  komponentreview, modelreview og review af referencearkitektur. Et review kan udføres flere gange i løbet af et projekts levetid, fx arkitekturreview, mens fx scope review kun udføres en gang - typisk ved projektliggørelse. Et modelreview udføres kun én gang.
 
 #### Review af scope
 
@@ -54,7 +54,7 @@ Et review af arkitektur-designet eller komponenter foretages typisk første gang
 
 Reviewet bygger på anbefalinger fra scope reviewet og kan anlægge både en holistisk betragtning på arkitekturanvendelsen i projektet samt fokusere på enkelte komponenter. Som udgangspunkt foretages der i midten af analysefasen et holistisk review af arkitekturdesignet af løsningen. Alle principper og arkitekturregler fra hvidbogen inddrages ud fra en prioritering af, hvad der er mest centralt at fokusere på ift. Løsningen.
 
-Dette review kan efterfølges af reviews i gennemførelsesfasen, der ser mere specifikt på enkelte dele eller enkelte komponenter i den kommende løsning. For agile projekter er et arkitekturdesign- og komponentreview relevant i design og udvikling af features, eller hvis man arbejder med epics, ved arkitektur-designet af epics og senere i forløbet med udviklingen af features.
+Dette review kan efterfølges af et review i gennemførelsesfasen, der ser mere specifikt på enkelte dele eller enkelte komponenter i den kommende løsning. For agile projekter er et arkitekturdesign- og komponentreview relevant i design og udvikling af features, eller hvis man arbejder med epics, ved arkitektur-designet af epics og senere i forløbet med udviklingen af features.
 
 #### Modelreviews
 
@@ -80,7 +80,7 @@ Figur 2: Illustration af de fire typer reviews og deres karakteristika opsummer
 
 Arkitekturreviews udføres når det er relevant gennem projektets livscyklus. Et review skal altid have fokus på de udfordringer, som på det pågældende tidspunkt er centrale for projektet. Alle projekter med et væsentligt indhold af data og arkitektur vejledes til at gennemføre et review af scopet for projektet lige før at projektet projektliggøres samt et review i løbet af analysefasen. For projekter, der skal udarbejde referencearkitektur, forventes først et arkitekturreview når referencearkitekturen foreligger i en version 0.5. For løsningsprojekter kan arkitekturreviewet i analysefasen blive fulgt op af et model-review eller komponentreview senere i projektets forløb.
 
-For projekter, der udvikles efter agile metoder gælder ligeledes, at der skal udføres et arkitekturreview af scopet for det samlede projekt, når projektet projektliggøres. Derefter tilrettelægges reviews ud fra udviklingsplan af features. De forskellige nedslagspunkter i forhold til den fællesstatslige it-projekt model er illustreret nedenfor. Nedslagspunkterne varierer i forhold til den anvendte projektmodel herunder, om det er et agilt eller vandfaldsbaseret projektforløb.
+For projekter, der udvikles efter agile metoder gælder ligeledes, at der skal udføres et arkitekturreview af scopet for det samlede projekt, når projektet projektliggøres. Derefter tilrettelægges review ud fra udviklingsplan af features. De forskellige nedslagspunkter i forhold til den fællesstatslige it-projekt model er illustreret nedenfor. Nedslagspunkterne varierer i forhold til den anvendte projektmodel herunder, om det er et agilt eller vandfaldsbaseret projektforløb.
 
 ![Figur 3](assets/Figur3.svg)
 
