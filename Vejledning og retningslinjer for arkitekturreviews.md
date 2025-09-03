@@ -8,27 +8,27 @@ Regeringen, kommunerne og regionerne har med den fællesoffentlige digitaliserin
 
 ### Udvalget for Arkitektur og Standarder
 
-For at realisere den fælles arkitektur er Udvalget for Arkitektur og Standarder (UAS) nedsat i regi af de fællesoffentlige digitaliseringsstrategier. Udvalget har ansvaret for prioritering, udvikling, vedligehold og anvendelse af den fælles arkitektur, standarder og infrastruktur. Udvalget skal, med reference til porteføljestyregruppen for den fællesoffentlige digitaliseringsstrategi, sikre tværgående koordinering, og at initiativerne både anvender og bidrager til den fælles arkitektur – til gavn for både projektet selv og hinanden.
+For at realisere den fælles arkitektur er Udvalget for Arkitektur og Standarder (UAS) nedsat i regi af de fællesoffentlige digitaliseringsstrategier. Udvalget har ansvaret for prioritering, udvikling, vedligehold og anvendelse af den fælles arkitektur, standarder og infrastruktur. Udvalget skal, med reference til porteføljestyregruppen for den fællesoffentlige digitaliseringsstrategi, sikre tværgående koordinering og at initiativerne både anvender og bidrager til den fælles arkitektur – til gavn for både projektet selv og hinanden. 
 
-For initiativer med et væsentligt indhold af data og arkitektur udføres arkitekturreviews, der vurderer, i hvilket omfang den fælles arkitektur anvendes, herunder om der sikres digital sammenhæng på tværs. Resultatet af et arkitekturreview skal forelægges Udvalg for arkitektur og standarder (UAS).
+For initiativer med et væsentligt indhold af data og arkitektur skal udføres arkitekturreviews, der vurderer, i hvilket omfang den fælles arkitektur anvendes, herunder om der sikres digital sammenhæng på tværs. Resultatet af et arkitekturreview skal forelægges Udvalg for arkitektur og standarder (UAS). Det er sekretariatet for UAS, som faciliterer review.
 
 Denne vejledning har til formål at beskrive retningslinjer for arkitekturreviews i regi af den fællesoffentlige digitaliseringsstrategi, herunder kriterier for projekter, der skal gennemgå review, reviewproces samt procedurer i forbindelse hermed.
 
 ### Hvilke projekter skal have foretaget arkitekturreviews?
 
-Projekter, der er en del af initiativer i digitaliseringsstrategien med et væsentligt indhold af data og arkitektur, skal have foretaget et arkitekturreview.
+Projekter, der er en del af initiativer i den fællesoffentlige digitaliseringsstrategi, med et væsentligt indhold af data og arkitektur, skal have foretaget et arkitekturreview.
 
 Relevante projekter er projekter som frembringer fx referencearkitekturer eller andre elementer til den fællesoffentlige rammearkitektur, men det kan også være løsningsprojekter, der har til formål at udvikle og implementere en konkret løsning eller komponent - uanset om den skal bringes til anvendelse i et konkret domæne eller som en del af den fællesoffentlige infrastruktur.
 
-I udgangspunktet er analyseprojekter ikke omfattet af reviews, men der kan stadig være forhold, der er relevante i forhold til arkitektoniske betragtninger, og hvor rådgivning fra sekretariatet for initiativ 27 vil være formålstjenesteligt.
+I udgangspunktet er analyseprojekter ikke omfattet af reviews, men der kan stadig være forhold, der er relevante i forhold til arkitektoniske betragtninger, og hvor rådgivning fra sekretariatet for UAS vil være formålstjenesteligt.
 
-Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et arkitekturreview, kan sekretariatet for initiativ 27 kontaktes.
+Er man som projekt i tvivl om, hvorvidt man er kandidat til at få foretaget et arkitekturreview, kan sekretariatet for UAS kontaktes.
 
 ### Tre trin for arkitekturreviews
 
 Modellen for arkitekturreviews består af tre hovedprocesser:
 
-1\. En indledende rådgivende dialog mellem sekretariatet for initiativ 27 og det pågældende projekt 
+1\. En indledende rådgivende dialog mellem sekretariatet for UAS og det pågældende projekt 
 
 2\. En reviewproces, der gennemføres på 10 dage.
 
@@ -88,9 +88,9 @@ Figur 3: Illustration af de forskellige nedslagspunkter i forhold til den fælle
 
 ### Reviewprocessen
 
-Arkitekturreviewet skal være værdiskabende ift. det projekt, der reviewes og ikke være et forsinkende element. Et review gennemføres derfor på 10 arbejdsdage regnet fra det tidspunkt, hvor det pågældende projekt indsender materiale til brug for reviewet frem til, at projektet modtager et udkast til review-rapport fra sekretariatet for initiativ 27 til behandling i egne fora.
+Arkitekturreviewet skal være værdiskabende ift. det projekt, der reviewes og ikke være et forsinkende element. Et review gennemføres derfor på 10 arbejdsdage regnet fra det tidspunkt, hvor det pågældende projekt indsender materiale til brug for reviewet frem til, at projektet modtager et udkast til review-rapport fra sekretariatet for UAS til behandling i egne fora.
 
-Der opstilles informationskrav til det materiale, der skal indsendes til reviewet for at sikre en fyldestgørende behandling. For de fleste typer reviews vil dette basere sig på den fællesoffentlige dokumentationsramme, men der kan være behov for yderligere informationer i forbindelse med gennemførelsen. Dokumentationsgrundlaget for det enkelte review fastlægges i en dialog mellem sekretariatet for initiativ 27 og projektet forud for reviewet.
+Der opstilles informationskrav til det materiale, der skal indsendes til reviewet for at sikre en fyldestgørende behandling. For de fleste typer reviews vil dette basere sig på den fællesoffentlige dokumentationsramme, men der kan være behov for yderligere informationer i forbindelse med gennemførelsen. Dokumentationsgrundlaget for det enkelte review fastlægges i en dialog mellem sekretariatet og projektet forud for reviewet.
 
 Til hvert review nedsættes et reviewboard, der har fire pladser - en plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR mens de to sidste pladser kan anvendes af staten.Til modelreview har boardet dog kun 2 pladser, og ingen af disse er reserveret bestemte parter. Reviewet udmøntes i en review-rapport, der fremsendes til projektet efter reviewboardets godkendelse.
 
@@ -102,9 +102,9 @@ Selve reviewprocessen omfatter 10 dage, fra det tidspunkt hvor projektet indsend
 
 Figur 4: Illustration af arkitekturreview på 10 dage.
 
-Den første dag modtages materialet fra projektet, det kvalitetssikres af sekretariatet for initiativ 27 at materialet opfylder det aftalte, og materialet fremsendes til reviewboardet. Reviewboardet har herefter tre dage til at læse og reflektere over materialet i forhold til hvidbogens principper og arkitekturregler.
+Den første dag modtages materialet fra projektet, det kvalitetssikres af sekretariatet for UAS, at materialet opfylder det aftalte og materialet fremsendes til reviewboardet. Reviewboardet har herefter tre dage til at læse og reflektere over materialet i forhold til hvidbogens principper og arkitekturregler.
 
-På dag fem afholdes en workshop, hvor reviewboardet, projektet og sekretariatet for initiativ 27 deltager. Reviews gennemføres baseret på en dialogisk form, hvor reviewboard og projekt drøfter projektets udfordringer med udgangspunkt i hvidbogens principper og arkitekturregler. Workshoppen faciliteres af sekretariatet (en sekretariatsmedarbejder og en arkitekt), og fra projektet deltager som minimum projektleder og arkitekturansvarlig.
+På dag fem afholdes en workshop, hvor reviewboardet, projektet og sekretariatet deltager. Reviews gennemføres baseret på en dialogisk form, hvor reviewboard og projekt drøfter projektets udfordringer med udgangspunkt i hvidbogens principper og arkitekturregler. Workshoppen faciliteres af sekretariatet (en sekretariatsmedarbejder og en arkitekt), og fra projektet deltager som minimum projektleder og arkitekturansvarlig.
 
 På baggrund af bemærkninger og workshop udarbejder sekretariatet en reviewrapport, der godkendes af reviewboardet og fremsendes til projektet, senest dag 10.
 
@@ -122,19 +122,19 @@ Figur 5: Illustration af modelreview på 10 dage.
 
 Reviewboardet er centralt i udførelse af arkitekturreviews, både som aktive bidragsydere samt i rolle som kvalitetssikring af det udførte arbejde. Hertil er deltagelse også en god mulighed for kompetenceløft gennem drøftelse og sparring med andre projekter og kollegaer.
 
-Reviewboardet består af it-arkitekter og lign., som er indmeldt af de deltagende parter i digitaliseringsstrategien. For at given review inviteres og udpeges reviewboardet af sekretariatet for initiativ 27. Hvert reviewboard har fire pladser: En plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR og de sidste to pladser optages af staten. Ønsker en sektor ikke at udnytte deres plads(er), gennemføres reviewet med de øvrige deltagere i reviewboardet.
+Reviewboardet består af it-arkitekter og lign., som er indmeldt af de deltagende parter i digitaliseringsstrategien. For at given review inviteres og udpeges reviewboardet af sekretariatet for UAS. Hvert reviewboard har fire pladser: En plads er reserveret til kommunerne/KL, en plads er reserveret til regionerne/DR og de sidste to pladser optages af staten. Ønsker en sektor ikke at udnytte deres plads(er), gennemføres reviewet med de øvrige deltagere i reviewboardet.
 
 Reviewboardet er ansvarlige for at indstille til UAS, om det pågældende projekt er i overensstemmelse med den fællesoffentlige digitale arkitektur. Indstillingen er en del af review-rapporten. For modelreviews består reviewboardet af to repræsentanter fra UAS' medlemmer.
 
 Man kan ikke deltage i et reviewboard for et arkitekturreview, der udføres på et projekt, der ejes af den organisation, som man selv er ansat i. Organisationen repræsenteres derimod ved projektleder og en arkitekt for det pågældende projekt.
 
-Ønsker man som it-arkitekt eller modellør i en myndighed at deltage i et reviewboard, kan man enten kontakte sin lokale koordinator eller sekretariatet for initiativ 27, for en dialog om mulighederne.
+Ønsker man som it-arkitekt eller modellør i en myndighed at deltage i et reviewboard, kan man enten kontakte sin lokale koordinator eller sekretariatet for UAS, for en dialog om mulighederne.
 
 ### Efterbehandling af reviews
 
 Review-rapporten for alle typer reviews fremsendes til det pågældende projekt til behandling i projektets egne fora, følgende den tidsplan, der er fastlagt på forhånd for det konkrete review. I udgangspunktet har et projekt 2-4 uger til efterbehandling og udarbejdelse af handlingsplan ift. afgivne anbefalinger i review-rapporten.
 
-Når projektet har færdigbehandlet review-rapporten fremsendes projektets handlingsplan til sekretariatet for initiativ 27. Afhængig af anbefalingerne foretages opfølgning herpå efter 6 måneder. Review-rapporten og handlingsplan forelægges UAS. Godkendes review-rapporten ikke i UAS, kan sagen eskaleres til partsforum.
+Når projektet har færdigbehandlet review-rapporten fremsendes projektets handlingsplan til sekretariatet. Afhængig af anbefalingerne foretages opfølgning herpå efter 6 måneder. Review-rapporten og handlingsplan forelægges UAS. Godkendes review-rapporten ikke i UAS, kan sagen eskaleres til partsforum.
 
 ![Figur 6](assets/Figur6.svg)
 
@@ -144,6 +144,6 @@ Figur 6: Illustration af efterbehandling af reviews.
 
 Arkitekturreviews er en væsentlig hjørnesten i digitaliseringsstrategiens arbejde med at sikre en sammenhængende digital offentlig sektor, herunder anvendelse af den fællesoffentlige arkitektur og derigennem kvalitetssikre og bidrage til bedre digitale løsninger.
 
-Arkitekturreviews skal ses i sammenhæng med den øvrige arkitektur-styring, der igangsættes i regi af den fællesoffentlige digitaliseringsstrategi. Et centralt element er den rådgivning, der af sekretariatet for initiativ 27 tilbydes til projekter, der er en del af initiativer med et væsentligt indhold af data og arkitektur.
+Arkitekturreviews skal ses i sammenhæng med den øvrige arkitektur-styring, der igangsættes i regi af den fællesoffentlige digitaliseringsstrategi. Et centralt element er den rådgivning, der af sekretariatet tilbydes til projekter, der er en del af initiativer med et væsentligt indhold af data og arkitektur.
 
 Sekretariatet forsøger i samarbejdet med de øvrige initiativer proaktivt at identificere og tilbyde sparring til relevante projekter, men alle projekter er velkomne til at kontakte sekretariatet på [arkitektur@digst.dk](mailto:arkitektur@digst.dk) med spørgsmål og ønsker til sparring.
