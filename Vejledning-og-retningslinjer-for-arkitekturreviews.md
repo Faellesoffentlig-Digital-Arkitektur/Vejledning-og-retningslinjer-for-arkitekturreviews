@@ -1,7 +1,5 @@
 # Vejledning og retningslinjer for arkitekturreviews
 
-## Retningslinjer for arkitekturreviews
-
 ### Introduktion til retningslinjerne
 
 Regeringen, kommunerne og regionerne har med den fællesoffentlige digitaliseringsstrategi for 2016-2020 sat sig ambitiøse mål for den videre digitalisering af den danske offentlige sektor. En helt central udfordring er at bruge digitaliseringen til at skabe stærkere sammenhæng i den offentlige sektors service. Borgerne og virksomhederne skal opleve, at behandling og service på tværs af flere myndigheder hænger bedre sammen. De samme data skal ikke indsamles flere gange, da dette koster penge og giver alle mere bøvl. Myndighederne skal kunne trække på hinandens viden og kunne samarbejde til gavn for borgere og virksomheder. Den fællesoffentlige digitale arkitektur skal understøtte den offentlige sektor i rejsen mod dette mål.
