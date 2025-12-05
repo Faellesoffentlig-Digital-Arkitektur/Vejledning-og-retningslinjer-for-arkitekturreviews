@@ -152,6 +152,6 @@ Sekretariatet forsøger i samarbejdet med de øvrige initiativer proaktivt at id
 | ------------------------ | --------------------------- |
 | Dokumenttype             | Vejledning                  |
 | Dokumentcyklus           | Servicetjek UL 2026         |
-| Dokumentejer             | UAS                         |
+| Dokumentejer             | :UAS                         |
 | Dokumentansvarlig        | KAT, arkitekturteam         |
 |                          |                             |
