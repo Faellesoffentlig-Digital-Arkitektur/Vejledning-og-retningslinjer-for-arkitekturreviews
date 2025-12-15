@@ -145,12 +145,3 @@ Arkitekturreviews er en væsentlig hjørnesten i digitaliseringsstrategiens arbe
 Arkitekturreviews skal ses i sammenhæng med den øvrige arkitektur-styring, der igangsættes i regi af den fællesoffentlige digitaliseringsstrategi. Et centralt element er den rådgivning, der af sekretariatet tilbydes til projekter, der er en del af initiativer med et væsentligt indhold af data og arkitektur.
 
 Sekretariatet forsøger i samarbejdet med de øvrige initiativer proaktivt at identificere og tilbyde sparring til relevante projekter, men alle projekter er velkomne til at kontakte sekretariatet på [arkitektur@digst.dk](mailto:arkitektur@digst.dk) med spørgsmål og ønsker til sparring.
-
-### Dokumentdata
-
-|                          |                             |
-| ------------------------ | --------------------------: |
-| Dokumenttype             | Vejledning                  |
-| Dokumentcyklus           | Servicetjek UL 2026         |
-| Dokumentejer             | UAS                         |
-| Dokumentansvarlig        | KAT, arkitekturteam         |
