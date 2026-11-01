@@ -108,9 +108,9 @@ På baggrund af bemærkninger og workshop udarbejder sekretariatet en reviewrapp
 
 #### Modelreviews
 
-Processen for begrebs- og modelreviews er skriftlig baseret. Reviewboardets rolle er kvalitetssikring af review-rapporten, der er en validering af, om fx den pågældende begrebs- eller datamodel er i overensstemmelse med de fællesoffentlige modelregler. Rapporten udarbejdes af modelsekretariatet.
+Processen for begrebs- og modelreviews er skriftlig baseret. Reviewboardets rolle er kvalitetssikring af review-rapporten, der er en validering af, om den pågældende begrebs- eller datamodel er i overensstemmelse med de fællesoffentlige modelregler. Rapporten udarbejdes af modelsekretariatet.
 
-For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder modelsekretariatet en review-rapport, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til bemærkninger hos reviewboardet, der har to dage til at se på materialet. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og reviewboardet fremsender godkendelse, hvorefter compliancerapporten leveres til projektet.
+For modelreviews modtages materialet senest på dag et og i løbet af de næste fire dage udarbejder modelsekretariatet et udkast til review-rapportwn, hvor den pågældende begrebs- eller datamodel gennemgås i forhold til de fællesoffentlige begrebs- og datamodelregler. Rapporten fremsendes til reviewboardet, der har to dage til at komme med bemærkninger. I løbet af de to næste dage, dag 8 og 9, konsolideres den endelige rapport, og på dag 10 foretager reviewboardet endelig godkendelse, hvorefter compliancerapporten leveres til projektet.
 
 ![Figur 5](assets/Figur5.svg)
 
